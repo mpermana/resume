@@ -29,15 +29,15 @@ Open this site in your mobile phone and let it access your location. It'll store
 
 
 2012 @cloudwords.com, Single Page Application : Cloudwords Translation Project Management
-<img src="https://github.com/mpermana/resume/blob/master/cloudwords/cloudwords.jpg">
+<img src="https://raw.github.com/mpermana/resume/master/cloudwords/cloudwords.jpg">
 
 2005 @oracle.com SWT Application : Oracle Business Intelligence Job Scheduler. (Written the entire application myself)<br>
-<img src="https://github.com/mpermana/resume/blob/master/oracle/obischeduler.jpg">
+<img src="https://raw.github.com/mpermana/resume/master/oracle/obischeduler.jpg">
 
 
 2000 @outsidework, Windows MFC Application : Othelo Game with Artificial Intelligence Algorithm (MinMax)<br>
-<img src="https://github.com/mpermana/resume/blob/master/othelo/screen.png">
+<img src="https://raw.github.com/mpermana/resume/master/othelo/screen.png">
 You can download the game and play it in Windows:
-https://github.com/mpermana/resume/blob/master/othelo/poketelo.exe
+https://raw.github.com/mpermana/resume/master/othelo/poketelo.exe
 
 
