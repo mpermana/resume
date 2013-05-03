@@ -11,11 +11,13 @@ Passion: working with web applications.
 
 Work experience: http://www.linkedin.com/profile/view?id=181228394
 
+Blog: http://devlvl99.blogspot.com
+
 Applications Showcase
 =====================
 2013 @snaplogic.com, Single Page Application : Snap Logic Admin Console (Written the entire application myself)<br>
-<img src="https://github.com/mpermana/resume/blob/master/snaplogic/snaplogic%20user.png">
-<img src="https://github.com/mpermana/resume/blob/master/snaplogic/snaplogic%20schedule.png">
+<img src="https://raw.github.com/mpermana/resume/master/snaplogic/snaplogic%20user.png">
+<img src="https://raw.github.com/mpermana/resume/master/snaplogic/snaplogic%20schedule.png">
 
 2013 @outsidework, Single Page Application : nopaper
 http://taru.zeeses.com/nopaper/nopaper.html
