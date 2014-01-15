@@ -20,12 +20,8 @@ UI Applications Showcase
 <img src="https://raw.github.com/mpermana/resume/master/snaplogic/snaplogic%20user.png">
 <img src="https://raw.github.com/mpermana/resume/master/snaplogic/snaplogic%20schedule.png">
 
-2013 @outsidework, Single Page Application : nopaper
-http://taru.zeeses.com/nopaper/nopaper.html
-Import your name from facebook, then click on the PDF tax form link, the PDF will be filled in with your name.
-
 2013 @outsidework, Single Page Application : Location Sharing
-http://taru.zeeses.com/map/meetup.html
+http://duren.dyndns.org/map/meetup.html
 Open this site in your mobile phone and let it access your location. It'll store your location in the server, other people who visit the same site then can see you move in the map.
 
 
